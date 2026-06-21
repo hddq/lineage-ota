@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1782046997,
+      "filename": "lineage-23.2-20260621-UNOFFICIAL-marble.zip",
+      "id": "da2031d620079662423ffc1cbc70e2a6c31b169362f35ebf8dd68c013fa12ff9",
+      "romtype": "UNOFFICIAL",
+      "size": 1815373699,
+      "url": "https://github.com/hddq/lineage-ota/releases/download/build-marble-20260621_125502/lineage-23.2-20260621-UNOFFICIAL-marble.zip",
+      "version": "23.2"
+    }
+  ]
+}
